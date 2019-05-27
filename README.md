@@ -1,4 +1,4 @@
-[博客](http://www.wangxiaotaot.top/)
+<h1 align="center">blog</h1>
 
 <p align="center">
 <a href="https://github.com/Tommywt/blog/issues"><b>所有文章</b></a>
